@@ -208,7 +208,7 @@ function displayCategoryRankings(categoryScores) {
                 affiliation: data.affiliation || ''
             }))
             .sort((a, b) => b.score - a.score)
-            .slice(0, 5); // Top 5
+            .slice(0, 10); // Top 10
 
         // Créer la section de catégorie
         const categoryDiv = document.createElement('div');
