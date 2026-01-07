@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IGCTF - Live Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nabla&family=Press+Start+2P&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="scanlines"></div>
+    <div class="snow-container" id="snow-container"></div>
+
+    <div class="container">
+        <header>
+            <div class="logo-area">
+                <img src="Guardia_logo_4k.png" alt="Guardia CTF Logo" id="ctf-logo">
+                <div class="titles">
+                    <h1><span class="nabla-title">Guardia National CTF</span></h1>
+                    <p class="subtitle">> SYSTEM_STATUS: <span class="blink">ONLINE</span></p>
+                </div>
+            </div>
+
+
+
+            <div class="timer-box">
+                <p class="timer-label">STATUT</p>
+                <div id="countdown">CTF TERMINÉ</div>
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progress-fill"></div>
+                </div>
+            </div>
+        </header>
+
+        <main>
+            <!-- Classements par catégorie -->
+            <div class="categories-container" id="categories-container">
+                <h2 class="categories-title">CLASSEMENTS PAR CATÉGORIE - TOP 5</h2>
+                <div id="category-rankings"></div>
+            </div>
+        </main>
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+</html>

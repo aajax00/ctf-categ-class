@@ -1,0 +1,145 @@
+id,oauth_id,name,password,email,type,secret,website,affiliation,country,bracket_id,hidden,banned,verified,language,change_password,team_id,created
+1,,adminguardia,"$bcrypt-sha256$v=2,t=2b,r=12$S28NeV11RNRnjrNkYCid1e$zWtSiEuyAGliZhI.OEDAaWYx6E1bW8.",aajax@guardiaschool.fr,admin,,,,,,True,False,False,,False,,2025-12-15 13:16:44.521408
+5,,yogosha,"$bcrypt-sha256$v=2,t=2b,r=12$eU3KcpUAjyAjf2IidixVIe$6YJ1ffHCOR9FlDmba.m/ev7x0Wjl3nm",m.arfaoui@yogosha.com,admin,,,Yogosha,,,True,False,True,,False,,2025-12-16 08:51:57.540035
+6,,root,"$bcrypt-sha256$v=2,t=2b,r=12$xfMrnHhzI9mvsTS2MXzo..$0JEQJj2Ni4y5x0eyzOsciIOUnWrZ34C",arouzi@guardia.school,user,,,PARIS,,,True,False,False,fr,False,,2025-12-16 08:55:38.182165
+10,,Guzzi,"$bcrypt-sha256$v=2,t=2b,r=12$ObU9mRbWlVy3RvwIQ1WW.u$DM7Qtc8gJqiIph6xALjLOdsFnyV5z6m",daubert@guardiaschool.fr,user,,,BORDEAUX,,,False,False,False,fr,False,,2025-12-16 11:40:22.069731
+11,,Vincent PHILIPPE,"$bcrypt-sha256$v=2,t=2b,r=12$L60CuyrEp571RV969CrM.O$lnu7OkYtORY5ZcCz6nlvMfdMyS0mNcu",vphilippe@guardiaschool.fr,user,,,BORDEAUX,,,False,False,False,,False,,2025-12-16 12:17:37.591609
+12,,kayou,"$bcrypt-sha256$v=2,t=2b,r=12$Rh8sUfaa35DMWrqSQA6ozu$BsZcDvzvvfYX1qV/EaVHWrDdrDI8EZS",kepaminondas@guardiaschool.fr,user,,,BORDEAUX,,,False,False,False,,False,,2025-12-16 12:25:47.837545
+13,,la naine,"$bcrypt-sha256$v=2,t=2b,r=12$8gDzNNlljgYIILlwYu/gqO$6qSiux2r3dCx4Pj7MLNOwJEO2PqJZt.",gtritschler@guardiaschool.fr,user,,,BORDEAUX,,,False,False,False,,False,,2025-12-16 12:28:26.730038
+14,,badblue,"$bcrypt-sha256$v=2,t=2b,r=12$0enB7ZvBMf4GhmiLj8ja1e$hJAjplz6cx9AuwSpzanDRkhF1UDwKqS",cfremont@guardiaschool.fr,user,,,BORDEAUX,,,False,False,False,,False,,2025-12-16 12:29:04.941935
+15,,RedBull,"$bcrypt-sha256$v=2,t=2b,r=12$RtXEBSXtmgVw8dxw5TSBg.$Yhelbd8b8jzsUetgbeqzShkBMIbq4Du",ybry@guardiaschool.fr,user,,,BORDEAUX,,,False,False,False,,False,,2025-12-16 12:31:48.011106
+16,,goro16,"$bcrypt-sha256$v=2,t=2b,r=12$rPC2qIQhBtTLGCFi.3gmqu$HQ3Jz5j7XCYNBg8foRXCQCTc8tPHOo6",aguitraud@guardiaschool.fr,user,,,BORDEAUX,,,False,False,False,,False,,2025-12-16 12:39:31.531859
+17,,Gr0zey,"$bcrypt-sha256$v=2,t=2b,r=12$zoiLqOfKUKaiEA6h939Hfu$MFN0tOO7aKdzGzIhxNDaY.FeYgZqN3a",lodurand@guardiaschool.fr,user,,,BORDEAUX,,,False,False,False,,False,,2025-12-16 13:05:51.359076
+18,,Swyyyyy,"$bcrypt-sha256$v=2,t=2b,r=12$01kAWcexujl/lwEbqqIj.e$XoocHTRyIdcbp7aSWAK34iAqsxsRAse",mpoissonnier@guardiaschool.fr,user,,https://katabump.com,PARIS,GE,,False,False,False,fr,False,,2025-12-16 14:33:04.220813
+19,,FrenzyFarm,"$bcrypt-sha256$v=2,t=2b,r=12$Nnctr/jSmroYNiXGqwJEO.$Q5PIwWfHykmkIJcc73qaha96FGJM5p2",blaur@guardiaschool.fr,user,,,BORDEAUX,,,False,False,False,,False,,2025-12-16 14:35:28.438078
+20,,snake_eyes91,"$bcrypt-sha256$v=2,t=2b,r=12$CBE2xTzJPnL10ImI7/9b7e$micKcqQeEqQ.YGDR.mj1mQoLvn8HcKi",agalland@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-16 14:37:04.121795
+21,,Zoroark,"$bcrypt-sha256$v=2,t=2b,r=12$3zQ1AXVGxun5qoW5eKlqXO$TVXIKeHQEVZ876VJYK69vt626Rm.xAy",eriviere@guardiaschool.fr,user,,https://lizy8877.github.io/cyberfolio/,PARIS,FR,,False,False,False,fr,False,,2025-12-16 14:38:17.670294
+22,,Gopix,"$bcrypt-sha256$v=2,t=2b,r=12$k68YNstrgMNCRyI223BIKu$xxeai5yggzDbs026oYlMoAmMfN/U7/S",guthayarajah@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-16 14:41:00.528898
+23,,ch4tbl4nc,"$bcrypt-sha256$v=2,t=2b,r=12$B/DL.F9q6uuta9tC8ZOYl.$YTZ0iYGpLCT.z2fcQhXtabEt8FwZAuW",mdeque@guardiaschool.fr,user,,,PARIS,,,False,False,False,fr,False,,2025-12-16 14:41:03.565770
+24,,leMecha,"$bcrypt-sha256$v=2,t=2b,r=12$8MBAp1Z8zlbVR7RMg8VFW.$VVVcOFFs/3DGJnq4CJE0qi5ZIdXu4fe",tducimetiere@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-16 14:42:00.625217
+25,,0xVexx,"$bcrypt-sha256$v=2,t=2b,r=12$u5/OIuHcOWC2MGa7KmVIre$rOen0TRRlgPY56viZybNespxFMMJdgO",abonga.ajax@gmail.com,user,,https://bananizateur.neocities.org/,PARIS,,,False,False,False,,False,,2025-12-16 14:42:15.415206
+26,,Azekh,"$bcrypt-sha256$v=2,t=2b,r=12$yAS04A8kWs9Op3UYqMUHB.$ckNL.zvteoMmP6wxp6o3qBQThsXcRn2",mmeunier@guardiashcool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-16 14:44:48.827227
+27,,n3tflyx,"$bcrypt-sha256$v=2,t=2b,r=12$8n50pnG6s6LEHyk9yie7EO$wgoD8TFr9wA3NSMLDOKfVoY/B/LQ76u",jgrossinproux@guardiaschool.fr,user,,https://osint.industries,PARIS,KY,,False,False,False,,False,,2025-12-16 14:46:16.170100
+28,,ocl,"$bcrypt-sha256$v=2,t=2b,r=12$wUJP4AHsFujmlQk4xkdl/u$nBgGws0rtasRrtbRbfi4cRtjt08OY6O",mlebras@guardiaschool.fr,user,,http://www.patience-is-a-virtue.org/,PARIS,,,False,False,False,,False,,2025-12-16 15:07:49.086130
+29,,Marion94,"$bcrypt-sha256$v=2,t=2b,r=12$EfTSSndakNYEIspX35KaEe$CY6VJ8RtwtWVZuYixpFww9bn8a6X8BK",mmantari@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-16 15:17:32.982623
+30,,Foxoni,"$bcrypt-sha256$v=2,t=2b,r=12$J9RCtiec0i4C9320YtaViO$JwSNDMl775JDRemkT9jAdBMEymaL/kK",gsavouret@guardiaschool.fr,user,,,PARIS,FR,,False,False,False,fr,False,,2025-12-16 15:23:01.274708
+31,,Oniary,"$bcrypt-sha256$v=2,t=2b,r=12$7ftdwYfINUU5ENvPfyf1Nu$S.fBkjBm9Yie7JLrHZGcqBoaj/xg.py",madnot@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-16 15:52:43.634935
+32,,Soulyo,"$bcrypt-sha256$v=2,t=2b,r=12$CHvV88BKHYckO66mTpDbHO$NUINfY11p3canQlcZ4aocHMhWRCZoZ2",mandiernathan@gmail.com,user,,,LYON,,,False,False,False,,False,,2025-12-16 16:16:39.100812
+33,,nathan,"$bcrypt-sha256$v=2,t=2b,r=12$4raKK21cTUqWcIxANtgZPu$/ixt8Zi3XwI5dcXKseNQUa..Kj7FkX6",nmandier@guardiaschool.fr,user,,,LYON,,,False,False,False,,False,,2025-12-16 16:17:37.391363
+34,,Stims,"$bcrypt-sha256$v=2,t=2b,r=12$eYI6K3QA5xD.rBuAtoZfae$UStP5y.Qi31S2/O9vh5QZqhe5/shiLe",sduchanaud@guardiaschool.fr,user,,,LYON,,,False,False,False,,False,,2025-12-16 16:21:35.178759
+35,,RikoRiken,"$bcrypt-sha256$v=2,t=2b,r=12$Zt3At3nYruEWWa2SySXT..$kLjeTIDYNHJyNRGrYW8c6Jkr1wxGINC",edolle@guardiaschool.fr,user,,,BORDEAUX,,,False,False,False,,False,,2025-12-16 16:21:39.439518
+36,,Plue23,"$bcrypt-sha256$v=2,t=2b,r=12$gdlgclbW6rW56vFHDN1KLe$e.tkfP5amAGUDKvA6lQZvDPiYm3881y",crazafimahandry@guardiaschool.fr,user,,,BORDEAUX,FR,,False,False,False,fr,False,,2025-12-16 16:31:29.505775
+37,,ZetioZ,"$bcrypt-sha256$v=2,t=2b,r=12$Tte6A3nPKpytGrSE2kLOa.$FjEvHsWGkH1wTklycmWrvHQ2HsC6d16",abroquard@guardiaschool.fr,user,,,LYON,FR,,False,False,False,fr,False,,2025-12-16 16:37:36.974868
+38,,Kira,"$bcrypt-sha256$v=2,t=2b,r=12$OHxyuh2RTS1bEIMxGb2o2O$JiocnL6SHp9G5qJ8qniJRopnz/1RQsa",jpillot@guardiaschool.fr,user,,,LYON,,,False,False,False,,False,,2025-12-16 16:39:41.109563
+39,,CPU_Jesus,"$bcrypt-sha256$v=2,t=2b,r=12$3YKDUyprlKqICf/hUz0Zje$6WXHVxAeQ2ii76Ljz9PVNWu4aUWYdyS",walek.noah@gmail.com,user,,,LYON,,,False,False,False,,False,,2025-12-16 16:45:25.941799
+40,,Squarish,"$bcrypt-sha256$v=2,t=2b,r=12$qETthgp8JrBDxi1DVG1Efu$bVOfz1VeQkcrYZ6OlDM0CS6H334fp6C",qtoulmond@guardiaschool.fr,user,,,LYON,,,False,False,False,,False,,2025-12-16 17:04:00.647404
+41,,Aon,"$bcrypt-sha256$v=2,t=2b,r=12$EgdF6QgK8bWR7lI2Ur5qbO$QwmMEipFw7WGOxUXenH5.Y1KunyKESS",noadelhommois@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-16 17:19:27.675484
+42,,Bost,"$bcrypt-sha256$v=2,t=2b,r=12$QbRzqMXrJimC1L0LVf2bCe$RyaOQeX4jZ7omKpJx9hAAQD3u7v.BV6",mhenriot@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-16 17:21:36.739667
+43,,Mai,"$bcrypt-sha256$v=2,t=2b,r=12$OY7X.RxrgDSpyAI6yTOzg.$EKhLGWBYOKJOJd5xwF0hCsXH31PxYVa",jboudevin@guardiaschool.fr,user,,,PARIS,BS,,False,False,False,,False,,2025-12-16 17:21:37.122278
+44,,raph,"$bcrypt-sha256$v=2,t=2b,r=12$5zFocvolptgFJ81IP7zw3.$Xk1pNXx42rNZku090r.WaN3TUHlK0RG",rroumezin@guardiaschool.fr,user,,,LYON,FR,,False,False,False,,False,,2025-12-16 17:38:37.575620
+45,,pzpn,"$bcrypt-sha256$v=2,t=2b,r=12$qzGCMRrDqVJlEoGEsCGja.$8R0I3qZAQ0hTaTZL0z3FAjfqqE/fKD2",kwojanczyk@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-16 17:48:11.290106
+46,,tommy.guardia,"$bcrypt-sha256$v=2,t=2b,r=12$.LvoO4vQ6LzfHXfaguAW4.$jRPvFSZmg4Yl90bDNb/xz3llSYQiG/q",tszymanski@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-16 18:00:13.412368
+47,,Shrekye,"$bcrypt-sha256$v=2,t=2b,r=12$ehlYsCtN4GHo7I23wbjpr.$GnjMGB9E5Mk/RvEU.zPtjyRIxfiR2zq",edumas@guardiaschool.fr,user,,,LYON,,,False,False,False,,False,,2025-12-16 18:12:41.758985
+48,,Mourai,"$bcrypt-sha256$v=2,t=2b,r=12$3.9M9B2JIca17vPFkLWCKe$x0ESa1ilbixYRe6kX8pLiw10sywAkfe",cmoreau@guardiaschool.fr,user,,https://open.spotify.com/intl-fr/artist/02gko1zWBeKdi4oXeV8qfo,PARIS,CH,,False,False,False,,False,,2025-12-16 18:16:09.110946
+49,,J3dus0r,"$bcrypt-sha256$v=2,t=2b,r=12$fer2TM6CtSypxnVXrTa5m.$7bdmuJcSEaSSTnaQ4B/E7qkkkHeRAkW",ebourgoin@guardiaschool.fr,user,,,BORDEAUX,CK,,False,False,False,,False,,2025-12-16 18:37:33.160073
+50,,BlackNoir,"$bcrypt-sha256$v=2,t=2b,r=12$vG/Vf/rx1jIvktH8useB6u$iEvBW9Koho1s4lFHO7iIS4bQqhuq72C",mlongfort@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-16 19:04:58.616259
+51,,buzz,"$bcrypt-sha256$v=2,t=2b,r=12$Uo1q1LOTAmnYiujZejI.w.$.zVd5tOILWSsRgrkZik99WQCPhVlOQm",abruyant@guardiaschool.fr,user,,,PARIS,BR,,False,False,False,,False,,2025-12-16 19:13:29.516734
+52,,maxiikdr,"$bcrypt-sha256$v=2,t=2b,r=12$HaqIK6lX1CP.msNXYdVb7u$iKGMFkvayq/LCiercI/KKo1KHy9ijBS",cgrave@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-16 20:14:56.612641
+53,,tuturito,"$bcrypt-sha256$v=2,t=2b,r=12$10rYzQzhIalOstKw9tVmNu$2obKrl9q0kEpMn7b.QroFQ4E4knqpLW",aauclair@guardiaschool.fr,user,,,BORDEAUX,,,False,False,False,,False,,2025-12-16 20:19:12.462691
+54,,Vilto,"$bcrypt-sha256$v=2,t=2b,r=12$X9PBzUkfeOqM0s9G5RMmm.$clGQbRy5ZuH6361vqiBi.ivde0SK5mq",agressel@guardiaschool.fr,user,,,LYON,,,False,False,False,,False,,2025-12-16 21:20:17.123691
+55,,wanveo,"$bcrypt-sha256$v=2,t=2b,r=12$xI/DjYqqQGdd9tB8ESxCje$SDp/FcFwNO5pRn5rmixGqD4m.AX5tOK",kvrignaud@guardiaschool.fr,user,,,BORDEAUX,,,False,False,False,,False,,2025-12-16 22:25:57.026881
+56,,isame,"$bcrypt-sha256$v=2,t=2b,r=12$It2uMrkFrVtDnpEDeftm1e$ekGxAjH0O.EadE2FwF1ZqzzlNj6w0fS",acourty@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-16 23:30:18.392278
+57,,RiastradStag,"$bcrypt-sha256$v=2,t=2b,r=12$7YNygI/cMReEwNgdAj88V.$JmkEVIYXS.Qp3ZxxxNbfxpwjL3NnAjm",rpotts@guardiaschool.fr,user,,,LYON,IE,,False,False,False,,False,,2025-12-16 23:33:54.149848
+58,,evan_pdv,"$bcrypt-sha256$v=2,t=2b,r=12$Vo6jajlDAt8l4Y/UIJAwCO$pdbib5ui0ly193mpZvVEsUxY4zUSt6C",epoudevigne@guardiaschool.fr,user,,,LYON,,,False,False,False,,False,,2025-12-17 00:48:53.822100
+59,,Parzival,"$bcrypt-sha256$v=2,t=2b,r=12$cxrzQKc8QcRHP6rqj4nq5O$gWHh0qfslURbcysdrROWKT9d0eqCu3K",jparola@guardiaschool.fr,user,,,LYON,,,False,False,False,,False,,2025-12-17 00:51:48.449569
+60,,Estek,"$bcrypt-sha256$v=2,t=2b,r=12$pLVdvdmupdI5c5a5o2XGCO$H7Aa3.0giVWE/LTIPCAblrFPRRG/SqK",ekropp@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-17 04:15:31.187097
+61,,S.A.M,"$bcrypt-sha256$v=2,t=2b,r=12$DtcD.k0gILFvZ1HPFPIZgu$XsiGKADjHzZd86LX2jUVSp5bQG1N1c.",shammadi@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-17 07:00:24.487673
+62,,teo_guardia,"$bcrypt-sha256$v=2,t=2b,r=12$qBJOjMKvwzp5alEcAuRVce$aCRtEM869KIeMz1ejgvHKcD8kPyADtm",tgapillou@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-17 07:28:01.889093
+63,,RootVector,"$bcrypt-sha256$v=2,t=2b,r=12$qExqJPFAXHc34WCjlaG6Ju$/s/Ymr4Tmqyhb.hsLa6M2eijFNYstve",uanglesdesrumaux@guardiaschool.fr,user,,,LYON,,,False,False,False,,False,,2025-12-17 07:37:33.897847
+64,,dha,"$bcrypt-sha256$v=2,t=2b,r=12$MSYreLGUzKUfntF7//p8Fe$Puvr5v2/eFlGogWf3YaL1m2Ufog9NG6",dha@guardiaschool.fr,user,,,LYON,,,False,False,False,en,False,,2025-12-17 07:42:19.976746
+65,,Msd,"$bcrypt-sha256$v=2,t=2b,r=12$pFO8ntWBXnkf4e.DA4IEAe$tiv4r8E81NAtUk0zlj3dSdBec4dN.ya",makil@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-17 07:53:03.410971
+66,,nad,"$bcrypt-sha256$v=2,t=2b,r=12$ZmQgohB2qvtYLWIAaQH6a.$LyvThxkcJqPypsFeDKRI3JSpwIrM8j2",cguillaume-lecomte@guardiaschool.fr,user,,,LYON,,,False,False,False,,False,,2025-12-17 07:54:45.716978
+67,,Alexandre,"$bcrypt-sha256$v=2,t=2b,r=12$qbfnEwJXHqRARS4/qfYgbe$P5EJ21lbgZiESryYDKqakdCfJgNAi5G",acare@guardiaschool.fr,user,,,LYON,,,False,False,False,,False,,2025-12-17 08:12:23.027195
+68,,quinou,"$bcrypt-sha256$v=2,t=2b,r=12$L2gWLEgsyBzgXHaOUos06O$R8IQWZxYzI/OSNSBZ5bOqsjg2Az3oZG",qnoutary@guardiaschool.fr,user,,,BORDEAUX,,,False,False,False,,False,,2025-12-17 09:36:09.970787
+69,,ZhionFR,"$bcrypt-sha256$v=2,t=2b,r=12$vc8mORM5mvzvOz94DO3QCe$eF1Gyg/nxfiqDX4Et0N.JniNdxEvIVi",thomasmichel@guardiaschool.fr,user,,https://www.whatbeatsrock.com/,BORDEAUX,,,False,False,False,,False,,2025-12-17 09:48:55.695335
+70,,Nstudy,"$bcrypt-sha256$v=2,t=2b,r=12$zrmP6.AHCYcEJe5ybHt/jO$p4KxL5xpydweDqJEs2RxaSaLLYRmjvm",nsisu@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-17 10:09:53.940081
+71,,clem_D,"$bcrypt-sha256$v=2,t=2b,r=12$DGNcMDQwqHEESywaPXeoEe$OLO0ulx5/upwI/pIEdUOpJdBNb.yAlG",cduval@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-17 10:10:32.764727
+72,,Pap3rClips,"$bcrypt-sha256$v=2,t=2b,r=12$4PMt1dYKT5KsAvPqlccSFe$fKJYAosG2IA1QyvaOmpM/swNkNBvY46",hcostarobert@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-17 10:11:30.522329
+73,,Xeen26,"$bcrypt-sha256$v=2,t=2b,r=12$jzMp.SSZzh.X4iiqmU5A5O$J3jXdX9As9ffESLmisUVww4.sg68EPS",esanjoserupaire@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-17 10:12:47.534177
+74,,Syrck,"$bcrypt-sha256$v=2,t=2b,r=12$Es9/yJMwVIVGOCDxEU57x.$KoeVK2T6ZDlf/LYQRuyIpn99qlGb1Ta",kkinduelolutumba@guardiaschool.fr,user,,https://www.instagram.com/syrkgraff/,PARIS,KP,,False,False,False,en,False,,2025-12-17 10:13:52.564861
+75,,69GonesSupremacy,"$bcrypt-sha256$v=2,t=2b,r=12$kAtbYGETYo4ja7uvinqir.$HkYrPUjwG0vIzL945BXW3q0xffAeG5m",nvadot@guardiaschool.fr,user,,,LYON,,,False,False,False,,False,,2025-12-17 10:13:57.050273
+76,,Zyphang,"$bcrypt-sha256$v=2,t=2b,r=12$tZiQ73OBD1M6lurE26bxBe$ODpOm2D..5z6/z0T/in0MX49/vMiHMu",ddathueyt@guardiaschool.fr,user,,,LYON,SH,,False,False,False,fr,False,,2025-12-17 11:15:09.096288
+77,,Malou,"$bcrypt-sha256$v=2,t=2b,r=12$81h3NHT/N.SX.oQL8OgOee$/ZDTIJtm/ki3WR7gNXy9/QjbKyjIqRS",msionneau@guardiaschool.fr,user,,,LYON,FR,,False,False,False,fr,False,,2025-12-17 11:15:20.044601
+78,,Pharma,"$bcrypt-sha256$v=2,t=2b,r=12$ykJ7AIdDNE8Njv/fKT5n3u$CotTR8zAYxJ/2oEQmKVRWfbmjtDTEE6",tdieude@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-17 11:55:12.009602
+79,,0xflo,"$bcrypt-sha256$v=2,t=2b,r=12$kk3cWa6IrHqfTbbm7fpF9.$NzTVA9LxGS4yvBX5nY5V0BxiQ4G3Lfu",fdhalleine@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-17 12:08:09.002552
+80,,j,"$bcrypt-sha256$v=2,t=2b,r=12$oh3JXdUybE.cDHhkOe3eH.$LYa.8oDQYz1xfG1lnFV6sejudJEHpfu",jcosnier@guardiaschool.fr,user,,,BORDEAUX,,,False,False,False,,False,,2025-12-17 12:49:49.075381
+81,,keecodec,"$bcrypt-sha256$v=2,t=2b,r=12$Rnvs4fiCF/AcTWjdu2mdTe$N7izlltey0ytbjSTXaKPM3iwCYzC1AO",egonzalez@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-17 13:28:58.093466
+82,,[KS]Shadovvirus,"$bcrypt-sha256$v=2,t=2b,r=12$dZX5eDAR3VsHr9SuYLgogO$rUFNTc.YBljGSarnyDkK5QMOggUut4a",mblanche@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-17 13:37:43.819058
+83,,Toulic,"$bcrypt-sha256$v=2,t=2b,r=12$wj1LOYV8qSUXKEupbkc5.O$pl8J4fAatGd5OcI6D7LBG3qBVksv1X2",pcornea@numericable.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-17 13:37:53.845347
+84,,CoRGu,"$bcrypt-sha256$v=2,t=2b,r=12$Jpz9I7Tjs2cr3z5njRfjKe$nq4Ptl.vdkWkKuGbKVFVtGdbcsyPwbW",cguyard@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-17 13:47:33.858449
+85,,altF4,"$bcrypt-sha256$v=2,t=2b,r=12$Ya6YlgZX8h37JeAl.hNtKO$w6fr2LPst2PpF7euOTFeqY3QLUR1w3G",nhoules@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-17 13:49:02.099245
+86,,Jack-Daniel,"$bcrypt-sha256$v=2,t=2b,r=12$jszy5F0lWzYPoNbhQwD2du$fCCq1H6U0MvsqsYrP6Jw2p.FI3XU6du",mgirard@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-17 13:49:59.497050
+87,,Cocktail Mazaltov,"$bcrypt-sha256$v=2,t=2b,r=12$JU9Qz9PrfxrGeagqTPnA6.$AjVx6OkkvA8llIL11BblFelsv32Kliu",ddehaas@guardiaschool.fr,user,,https://theannoyingsite.com/,PARIS,,,False,False,False,,False,,2025-12-17 14:15:21.236067
+88,,ShadowRich,"$bcrypt-sha256$v=2,t=2b,r=12$l0/B2HduSr.2w6i0ZqPNMO$GkZpYvZuoImQCTXXF.naTGdsMwztHWu",trichard-carrere@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-17 14:45:39.661311
+89,,baptiste A.,"$bcrypt-sha256$v=2,t=2b,r=12$oIh9QWk4Bn9QtKheSCoALu$S7Nkagyvu4d2tFwqWUXKi6LYtKDOFVu",baussant@guardiaschool.fr,user,,,PARIS,FR,,False,False,False,fr,False,,2025-12-17 15:10:41.045229
+90,,0xMoe,"$bcrypt-sha256$v=2,t=2b,r=12$Ire7OEy0Kv/Qdk/mlvWlqu$GCeUA0LEch.cyVHCLt7bKVMClF3GY6.",mbajwa@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-17 15:16:58.841438
+91,,nss.mrs1,"$bcrypt-sha256$v=2,t=2b,r=12$6UVLGci/eDcUq/xMHgocJe$0moJKaTP.a4W0oYiHGFwdf.iywIKAHq",smesmoudi@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-17 15:20:24.887614
+92,,Matthieu,"$bcrypt-sha256$v=2,t=2b,r=12$wfnXHdUWQf5NYPHyph3M5e$VeBwh//u9RRHCNHAn.0GaNDvaFu2nHi",mbrouillet@guardiaschool.fr,user,,,BORDEAUX,,,False,False,False,,False,,2025-12-17 16:13:29.792999
+93,,NosintL,"$bcrypt-sha256$v=2,t=2b,r=12$EtD.4SKwPPGsrjA6.qUmBO$lXYJjkN0Bu6YbG.hsxlWM0LxtEy8HTm",bremydecournon@guardiaschool.fr,user,,https://ffffidget.com/,PARIS,,,False,False,False,fr,False,,2025-12-17 17:26:59.230515
+94,,McMoutarde,"$bcrypt-sha256$v=2,t=2b,r=12$IkSxVb4ZTmjQC93mNc1Yve$.ukvpx/.GCRiSJ366aI4ZaRSYZ.Bnje",apoulain@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-17 17:39:53.436547
+95,,Avi,"$bcrypt-sha256$v=2,t=2b,r=12$fcyKsr1f5UjKvKbCwmwI2.$X5.p4JX4erT8ztdBbn.C2wZYYAzfEjy",avidal@guardiaschool.fr,user,,,BORDEAUX,,,False,False,False,,False,,2025-12-17 18:06:50.325746
+96,,Bee,"$bcrypt-sha256$v=2,t=2b,r=12$aZeNCWPg572pS/C19fpIfe$n2RkdmPTtNtxFq4yNwbCSK5l1LdTIpK",bbuisson@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-17 18:26:31.121034
+97,,x_x,"$bcrypt-sha256$v=2,t=2b,r=12$GzW2Jg8MvPwBCm4Wu/BtPu$baPA7fyvw509d4dEvs7Y9ib/E7qFqbG",ebengochea@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-17 19:54:55.664528
+98,,kosmo,"$bcrypt-sha256$v=2,t=2b,r=12$iiWLlkZbPCsKEkm/fVCpHu$2dcsfthObPh2wlepcMYwUXy8jbfs8fq",cpourtout19@gmail.com,user,,,PARIS,,,False,False,False,,False,,2025-12-17 19:57:38.605030
+99,,Adam B,"$bcrypt-sha256$v=2,t=2b,r=12$FTdii8pcJRJoGicg63N6ge$eXdTLE62sDHI7fD5mp512Xfm8cg2DWe",aboudiba@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-17 21:04:22.238009
+100,,Crystal,"$bcrypt-sha256$v=2,t=2b,r=12$lFdbikRYECvJt46JhIzeS.$Jo0sZ79yn3EQ3.9J/fLhhYJD/z.rlWO",ebai@guardiaschool.fr,user,,,PARIS,,,False,False,False,fr,False,,2025-12-17 21:09:39.620700
+101,,Sylion,"$bcrypt-sha256$v=2,t=2b,r=12$2pWFtBphFx99UVf7cL4le.$HDHekiJBW1joZzqmuewmFvDarBmjBT.",slacroix@guardiaschool.fr,user,,,LYON,,,False,False,False,,False,,2025-12-17 21:46:28.894344
+102,,matchaenjoyer03,"$bcrypt-sha256$v=2,t=2b,r=12$wGLYFqv8VXusfqZY8l/SVu$sHdH4Vg2ErtrmGxRQIOhfo1DAbyAsJu",azaritskyi@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-17 22:50:43.949228
+103,,Kebzore,"$bcrypt-sha256$v=2,t=2b,r=12$ph2uEY/UlYfHUd70HlHVce$G80vnYlBaEuesUeTbEfD/6mcDJ8uPm6",tfernandespais@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-17 23:34:12.482439
+104,,diddychatelet,"$bcrypt-sha256$v=2,t=2b,r=12$ZfEVRj9qlqP.a8s60ftY3.$RKPkymKMF.0MaDckbeEUykTbBnYvBw6",mfanchede@guardiaschool.fr,user,,,PARIS,CN,,False,False,False,,False,,2025-12-18 06:40:22.876857
+105,,durzat,"$bcrypt-sha256$v=2,t=2b,r=12$nKPUZOqg37oEhtWpTeG09.$cENyWhQSPpyy0kUtniX.407lzTrum62",pabril@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 06:46:59.116998
+106,,Moithis L'eau,"$bcrypt-sha256$v=2,t=2b,r=12$yq.tZnShEUscu8on8WO1nu$K0xAAbCDmnfkB1Db2tND0JUmhytl3UO",mlo@guardia.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 06:47:15.325885
+107,,ILN,"$bcrypt-sha256$v=2,t=2b,r=12$oWRvffIihB0p2BFJhEPJoO$ef/wlGeidkq9LXZfzaYgQYHN0Qv/TgK",ihachani@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 06:48:16.169756
+108,,BearWholovebeer,"$bcrypt-sha256$v=2,t=2b,r=12$Ff5YDGeao8n24nb76l3MDu$dtcdHrwvGIBSvM5lqujmUvyN5LtICdC",tlefebvrelebrouster@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 06:48:43.703454
+109,,HomelabbingMan,"$bcrypt-sha256$v=2,t=2b,r=12$LZOpnsRgIcMucbDickisx.$dDLdNL79J/3g4KLV.ct5TX8L3kAJvVO",rjacques@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 06:51:07.052744
+110,,keros,"$bcrypt-sha256$v=2,t=2b,r=12$bs3O96ykUW0dmZ8NIZ6hVO$1rs9fFF3MMDrN71PuZ4o4.q0Vr6TxM2",kmeunier@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 06:53:24.502989
+111,,Maxime,"$bcrypt-sha256$v=2,t=2b,r=12$DXB14inxPv/r4VdZ8jADHe$vCmBJ.wtVdmMDhUTcTj5Utw19GLRP0C",mlombardo@guardiaschool.fr,user,,,BORDEAUX,,,False,False,False,,False,,2025-12-18 06:55:13.190902
+112,,ika,"$bcrypt-sha256$v=2,t=2b,r=12$C3cvOfIJQ5CBcbdUXThhyO$QwGpuO6tbkmXK7v9jK..HNxUUVv7PMO",alloret@guardiaschool.fr,user,,,BORDEAUX,,,False,False,False,,False,,2025-12-18 06:58:56.766103
+113,,pevos,"$bcrypt-sha256$v=2,t=2b,r=12$q/70Trjza9t6uKhHo999UO$ru4GU245td14keF9sg8ETZnz2IcfRkm",eloichot@guardiaschool.fr,user,,,BORDEAUX,,,False,False,False,,False,,2025-12-18 07:04:18.235442
+114,,Zakimm,"$bcrypt-sha256$v=2,t=2b,r=12$kYI6LSZ3Tp8SuwLiTIbB.e$IsqEhVYlpR7OJq.FXywv/KbVnFbr6xG",abequet@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 07:07:19.733207
+115,,CPU Jesus,"$bcrypt-sha256$v=2,t=2b,r=12$6eSwVuw8.cFqK7FV1fVFrO$JIh.gUtp6WfUTxQvc1ZPAll3mBafnkK",waleknoah@gmail.com,user,,,LYON,,,False,False,False,,False,,2025-12-18 07:07:57.438164
+116,,LiFuXx,"$bcrypt-sha256$v=2,t=2b,r=12$/iAH0REkecloOYIlsekzlO$ILRn0vCpEQvutcKeMcxvo2RReDOeUSO",dbruere@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 07:11:13.807730
+117,,qdegorge,"$bcrypt-sha256$v=2,t=2b,r=12$qJQdEwtefH9ZjKXAAGe/ke$P8Sl991SqCIYWzGrNgs/.ZCkC96BQfK",qdegorge@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 07:13:29.105206
+118,,Picka,"$bcrypt-sha256$v=2,t=2b,r=12$H4fsR1iC0/kDdl5jt.3tIu$ZdgMgmq05bPuRO2y/h3hNNZa9LEKARK",tdesforges@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 07:15:09.829802
+119,,Goon,"$bcrypt-sha256$v=2,t=2b,r=12$oHORGg2sqRu3AeC8uyr2eu$kfnW/EaR/dUJZj221MW3Mw4HMmM4rse",rhervot@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 07:15:57.516940
+120,,Bone smashing,"$bcrypt-sha256$v=2,t=2b,r=12$KbWG/uI6c/BiYPA/2BuWCu$A94RFHxwKAGAIiFU/SwC7OaQaHBgaSe",mamazias@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 07:16:30.011635
+121,,Clemou,"$bcrypt-sha256$v=2,t=2b,r=12$IkQoMgEzgoHM/iNgSoxjD.$gHOiO0/PcLzOnGG8MPMg5Wpz9k7QTQu",cmarrast@guardiaschool.fr,user,,,PARIS,,,False,False,False,en,False,,2025-12-18 07:16:30.398304
+122,,Jerome,"$bcrypt-sha256$v=2,t=2b,r=12$V.JI2Ffxshei6xP59jBE1O$YKDMII.Px.VNtxCH98PysQjB55cWNdm",jperrin@guardiaschool.fr,user,,,LYON,,,False,False,False,,False,,2025-12-18 07:16:44.285820
+123,,Yassine,"$bcrypt-sha256$v=2,t=2b,r=12$.PMNxP5e2dc6Oz3jDhZLh.$ZJruaVsfWECPH75Xs8uuoSehirH8kI.",ymokhtari@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 07:17:01.355829
+124,,Enzo,"$bcrypt-sha256$v=2,t=2b,r=12$GxEfnV2wBLUjRKMyei6uM.$HXJWgpMoFESpQu3n8CE2wNi7RMTY/RG",emonnet-mata@guardiaschool.fr,user,,,LYON,,,False,False,False,fr,False,,2025-12-18 07:17:30.033148
+125,,Looksmaxxing,"$bcrypt-sha256$v=2,t=2b,r=12$vYUEa5MsKzxeowFORdVpT.$1SEcjRkq0s2yxY9grIWZ/CBI0hCi2K.",nedy@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 07:17:40.430129
+126,,Petit coeur tout mou,"$bcrypt-sha256$v=2,t=2b,r=12$V8N7WW.H/63oJrZNsO3K6O$S3DENGDz.R6h5JASGFIp7WAUEK25mIO",eguillonvongsouvan@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 07:17:46.664544
+127,,PetitChatonKawaii,"$bcrypt-sha256$v=2,t=2b,r=12$LXc8a8CYpzKki6JF5VUkqO$UQfNlidlJyifm7VMkl842NShASaQdWG",agervais@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 07:19:44.157737
+128,,Haksko (non participant),"$bcrypt-sha256$v=2,t=2b,r=12$x.7aWzRMn7Onm0jZsPSn3O$qGJxbhEias.6/7evi3gaUCp3jkHlvbW",hsaidi@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 07:25:21.594782
+129,,Henrico,"$bcrypt-sha256$v=2,t=2b,r=12$f8JthZn4ZnIhMtMP17If.u$RE/vjoMQKhIMzY0R4pcV3et8v7iWOCq",rnaceri@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 07:26:49.942244
+130,,Mahmoud,"$bcrypt-sha256$v=2,t=2b,r=12$qwXPWFMjKAx0STDb0Z5ODu$nPOodXJRB75twMAKbKL4SqZlLLlgGaK",melshetewi@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 07:27:16.155899
+131,,Peau_lisse,"$bcrypt-sha256$v=2,t=2b,r=12$e6LQugT2vDWgUgipAbz6Le$z9SjXluBcJpK.Q1dSKAJPWVzsP2xYUy",blothe@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 07:28:25.117729
+132,,Stims2,"$bcrypt-sha256$v=2,t=2b,r=12$hlu915f.esxZWbHlAw2A7O$HuEpBjQ2bFvHpQ7KqbRenlExLZSV5NS",sduchanaud1@guardiaschool.fr,user,,,LYON,,,False,False,False,,False,,2025-12-18 07:29:16.565297
+133,,nSm [NATHAN],"$bcrypt-sha256$v=2,t=2b,r=12$KfgRc/g9LUskyTj1rTyPVe$M275Co.wGndbGttgZf9M9K6ouHp2tja",nschmidt@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 07:32:42.841339
+134,,Nayar,"$bcrypt-sha256$v=2,t=2b,r=12$nh5o/P6w.9IHAc76DV.kAe$pBR3E4QDOkbz5ij7Qk2LA43OZpl7pG6",rlabed@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 07:35:59.113095
+135,,emotebrclashroyal2k252025ouahleouff2vs2,"$bcrypt-sha256$v=2,t=2b,r=12$gSSY6qHjGWSsPZ.zy7yehO$BHIajU9nAWTp7V7WWXNCazQl7422ML6",lhyrat@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 07:38:44.078397
+136,,CeroHack,"$bcrypt-sha256$v=2,t=2b,r=12$3ecAlGQAMSCJtxFFUY69Qu$HSKb/ecUWE2IyXylhSPJyKFLJ7DUaeC",brenaud@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 07:40:48.567926
+137,,Nelhiot,"$bcrypt-sha256$v=2,t=2b,r=12$BfOPlqe6jII3uzkhOt3JEe$b1JeEGyMm9kdomanLYfhPYMSQOdemTK",nverdier@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 07:43:47.679081
+138,,rtoulouse,"$bcrypt-sha256$v=2,t=2b,r=12$waW/nUNjKV9r3I.mDOYQTO$vp790AYQHo3MkbbeEKh8UmB1XVge5Di",rtoulouse@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 08:16:35.628870
+139,,Alicia,"$bcrypt-sha256$v=2,t=2b,r=12$2OPru1n9VdIfrRsYrdbt0u$oCbrGixUeHNInPVr87hwwPPMm0c7KNq",agonzalez@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 08:28:24.209959
+140,,CodaxOn,"$bcrypt-sha256$v=2,t=2b,r=12$QTimeW87YrtgsRBvqrjoZ.$nnNtqCW5Ae5YemuelZhObtAJXUHyuG.",yjerbi@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 08:30:06.059227
+141,,ylabbas,"$bcrypt-sha256$v=2,t=2b,r=12$Xzj9EvXhu7t1N71NjMSIQe$3YH0tQ9gj5Yxr/f5d1AXckvpaYBuhYO",ylabbas@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 08:31:29.122410
+142,,zaky ehehe,"$bcrypt-sha256$v=2,t=2b,r=12$k029Aa/9pkuwk3STDA3FgO$5mU5HkE2DbqObjT7Ji6Vj1jSjyafpAW",zbekar@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 08:36:48.905974
+143,,yoann,"$bcrypt-sha256$v=2,t=2b,r=12$7yL4jjI9xb.HLS7irHAVou$YH.0HwPQlGvthA1r3UEbccYXNo8q2Ni",ygirault@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 08:39:43.004733
+144,,Darmata,"$bcrypt-sha256$v=2,t=2b,r=12$JyIdr5R7PNN4R8rtRvifee$21lXSz.NareZWoKB7WW2Xv4Y9ZuEsNW",dkuzucu@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 08:46:37.787932
+145,,ael,"$bcrypt-sha256$v=2,t=2b,r=12$x2u0L6DCWSh/VxZ41Z2cnO$SbFBk9pf974fPjBupfW7UDIJYMzfrim",ljoffre@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 08:50:43.951214
+146,,bkankolongo,"$bcrypt-sha256$v=2,t=2b,r=12$GQz4W3ox8M5bJZebu5EdHu$f.0kCwTaQo0xQKdUTbA82qAm5/57Nvm",bkankolongo@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 08:51:05.655613
+147,,Haizer,"$bcrypt-sha256$v=2,t=2b,r=12$W3FuLn.BgXclMA6aZxmXBO$fN19v5VdgQsR4f/RjROyZ4Fb90Z/lX.",htiouti@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 09:25:02.827148
+148,,CeTop1M’aEtePromis,"$bcrypt-sha256$v=2,t=2b,r=12$Oe71TSj4KoEc86txixgdju$adt9.8zP.XT2MBjedPKgf7P0DL4apEa",rourimi@guardiaschool.fr,user,,,PARIS,,,True,False,False,,False,,2025-12-18 09:38:54.922272
+149,,guardiaosintschool,"$bcrypt-sha256$v=2,t=2b,r=12$Efulrbxad4K4NCvBi8jxwO$aCX5itXj7JvgbRoH01udqJYu.RrKpe.",lllllllll@llllllllll.com,user,,,PARIS,,,True,False,False,,False,,2025-12-18 09:39:12.812598
+150,,Playboi Carti,"$bcrypt-sha256$v=2,t=2b,r=12$zMvIyw9fZqbQKXR9UTB.X.$qm7R/kp4DRxMuPVztFnOOPwiyAuOmBO",mrigonot@guardiaschool.fr,user,,,PARIS,,,False,False,False,,False,,2025-12-18 17:21:20.325932

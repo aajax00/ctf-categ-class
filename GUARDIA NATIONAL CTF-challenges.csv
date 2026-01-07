@@ -1,0 +1,110 @@
+id,name,description,attribution,connection_info,next_id,max_attempts,value,category,type,state,logic,initial,minimum,decay,function,requirements
+3,LICENSE VALIDATOR,crack the license key,,nc 149.202.68.158 21004,,0,451,Reverse Engineering,dynamic,visible,any,500,100,80,logarithmic,
+4,CHAOS,this is a total chaos can you figure out how it works?,,nc 149.202.68.158 21005,,0,455,Reverse Engineering,dynamic,visible,any,500,100,80,logarithmic,
+5,Simple,this is so simple,,nc 149.202.68.158 21003,,0,461,Reverse Engineering,dynamic,visible,any,500,100,80,logarithmic,
+6,ReflectionTrap,hmmm this program check if my flags are correct but i can't get a correct one. Help please!,,,,0,467,Reverse Engineering,dynamic,visible,any,500,100,80,logarithmic,
+7,Crawl,"crawl this website to find the flag 
+",,http://35.180.25.109:1234/,,0,100,Web Exploitation,dynamic,visible,any,500,100,80,logarithmic,
+8,Simplicity,It seems so simple!,,nc 149.202.68.158 21001,,0,490,Pwn,dynamic,visible,any,500,100,80,logarithmic,
+9,Baby_SSRF,"Our security team discovered an internal web service that fetches content from external URLs. The developers claim it's secure so they've blocked all localhost access to prevent internal network attacks. However, we've heard whispers that there might be some interesting internal services running on non-standard ports...
+Can you find a way to read the flag stored in flag.txt ?",,,,0,500,Web Exploitation,dynamic,hidden,any,500,100,80,logarithmic,
+10,Commands,try to bypass filters to get the flag,,http://35.180.25.109:1235/,,0,100,Web Exploitation,dynamic,visible,any,500,100,80,logarithmic,
+11,IDOR,investigate the web app and try to find the administrator id,,http://35.180.25.109:1237/,,0,470,Web Exploitation,dynamic,visible,any,500,100,80,logarithmic,
+12,Boats,Would you like to buy a boat? its for FREE!,,nc 149.202.68.158 21002,,0,486,Pwn,dynamic,visible,any,500,100,80,logarithmic,
+13,Investigation,investigate the events and try to find something to exploit it,,http://13.38.115.4:8084/,,0,428,Web Exploitation,dynamic,visible,any,500,100,80,logarithmic,
+14,Obfuscate,obfuscation is the key,,http://13.38.115.4:8085/,,0,448,Web Exploitation,dynamic,visible,any,500,100,80,logarithmic,
+15,Broken controll,try to access the admin panel,,http://35.180.25.109:1236/,,0,424,Web Exploitation,dynamic,visible,any,500,100,80,logarithmic,
+17,DEV DEV,"Everyone is telling not to deploy my php application in dev mode, it is dangerous, I'm not sure about that, and i don't understand why, i think it is safe, what do you think?",,http://13.38.115.4:8086/,,0,488,Web Exploitation,dynamic,visible,any,500,100,80,logarithmic,
+18,Store,"This is my new store application, i'm still new to security, can you audit it and tell me everything is safe?",,http://13.38.115.4:8087/,,0,424,Web Exploitation,dynamic,visible,any,500,100,80,logarithmic,
+19,Warmup,"In order to get the flag, you need to login in as admin. Good luck !",,,,0,500,Web Exploitation,dynamic,hidden,any,500,80,80,logarithmic,
+20,Investigation0x1,"We found a lost PC, we will try to investigate and collect as much information as we can. Starting with: 
+- What is the Operating System (Profile)?
+
+ to submit flag, put directly the answer, no format.
+
+Download Links (MIRRORS, you can use one of the links below)
+- LINK1: [MIRROR LINK 1](https://drive.google.com/file/d/1VoxhTt1awGyhGWY3rIl-4g6nN9k2mHZh/view?usp=sharing)
+- LINK2: [MIRROR LINK 2](https://drive.google.com/file/d/1jFQIgQKNnyHD6JPrJL0pBrQ7cxAJolYM/view?usp=sharing)
+- LINK3: [MIRROR LINK 3](https://drive.google.com/file/d/1NT4a-EwXdIY0k6rjHHlqGt9aGJwAxjsU/view?usp=sharing)",,,,0,379,Forensics,dynamic,visible,any,500,100,80,logarithmic,
+21,Investigation0x2,"Moving to the next question:
+- What is the username?
+",,,,0,400,Forensics,dynamic,visible,any,500,100,80,logarithmic,
+22,Multiple,"RSA, but is it good rsa?",,,,0,304,Cryptography,dynamic,visible,any,500,100,80,logarithmic,
+23,Investigation0x3,"Next question:
+- what is the password? after cracking it.
+
+",,,,0,424,Forensics,dynamic,visible,any,500,100,80,logarithmic,
+24,Investigation0x4,"Next:
+- We found KeePass installed, we are trying to find the password saved somewhere, envs, etc .. can you tell us the keepass password?
+",,,,0,448,Forensics,dynamic,visible,any,500,100,80,logarithmic,
+25,Simple RSA,"I'm trying RSA, is this good enough? or weak?",,,,0,260,Cryptography,dynamic,visible,any,500,100,80,logarithmic,
+26,Investigation0x5,"Next:
+- we found an image that contains a sensitive information, can you tell us the content?
+
+",,,,0,464,Forensics,dynamic,visible,any,500,100,80,logarithmic,
+27,Investigation0x6,"Next:
+	- we checked even commands that has been executed, and we found interesting things, can you find it?",,,,0,451,Forensics,dynamic,visible,any,500,100,80,logarithmic,
+28,Investigation0x7,"Next:
+- We can even know what has been open in screen while dumping the memory, can you find the flag? 
+
+",,,,0,458,Forensics,dynamic,visible,any,500,100,80,logarithmic,
+29,Investigation0x8,"Next:
+- Even deleted files can be retrieved, can you check and tell us what can you find? 
+",,,,0,444,Forensics,dynamic,visible,any,500,100,80,logarithmic,
+30,Simple Encryption,try to deobfuscate the encryption function,,,,0,211,Cryptography,dynamic,visible,any,500,100,80,logarithmic,
+31,have you read the rules ?,"Read and accept the [rules](https://ctf-guardia.vemad.fr/rules), it's **IMPORTANT**!
+
+> *ps: ""Aucun point **PAVE** ne sera attribiué pour ce challenge si c'est le seul que vous avez résolut"".*",,,,0,100,rules,standard,visible,any,,,,static,
+32,FruitDB,Login forms are just the best. Your job is to retreive the Administrator's password.,,,,0,500,Web Exploitation,dynamic,hidden,any,500,50,50,logarithmic,
+35,Operation: Overlook,"We have intercepted a comms signal originating from a high-value target hidden within the Western Hills district. The target is believed to be operating out of a residential safehouse.
+
+We have acquired a satellite image of the area, but we need boots on the ground to confirm the exact location.
+
+Your Mission: Analyze the provided aerial imagery. Pinpoint the target's residence and extract the House Number and the Street Name. Precision is key for the extraction team.
+
+**Flag format**: flag{Number_StreetnameRoad} <br>
+> *(Example: flag{13_TotoRoad}) - No special characters.*",,,,0,100,Osint,dynamic,visible,any,500,100,80,logarithmic,
+37,The Unwanted Guest,"> **Incident Report** #4092-B Date: Late February 2024
+
+We are analyzing a targeted intrusion against a major Central European political entity. The threat actor gained access via a phishing campaign featuring a decoy document inviting the recipient to a reception event.
+
+The payload analysis reveals a sophisticated, multi-stage loading process designed to evade detection. This specific variant appears to be a custom tool, recently developed to drop a backdoor.
+
+Your Mission: Identify the name assigned by security researchers (like Zscaler or Mandiant) to this specific payload/loader.
+
+**Flag format**: flag{MalwareName}",,,,0,464,Osint,dynamic,visible,any,500,100,80,logarithmic,
+38,The XP Leak,"Our forensic analysts have recovered a corrupted image from a wiped hard drive. <br>
+While the file appears innocuous, we suspect a former employee used it to exfiltrate data or leave traces of their digital activity.
+
+> To solve this challenge, you must answer the 7 investigation points listed below and assemble them to construct the final flag.
+
+*1.  What animal is used as the avatar on the target's main social media account?*
+
+*2. In which city is the target physically located?*
+
+*3. What is the exact name (SSID) of the WAP he connected to?*
+ 
+*4. What is the personal email address the target?*
+
+*5. On which development platform was this email address found?*
+
+*6. Which city did the target visit for their recent holidays?*
+
+*7. What is the secret string hidden on their personal website?*
+
+**Flag Format:**<br>
+*Concatenate the answers separated by underscores .* <br>
+flag{Animal_City_SSIDName_Email_DevelopmentPaltform_City Visited_secret}",,,,0,395,Osint,dynamic,visible,any,500,100,80,logarithmic,
+39,The Titan's Rendezvous,"Our field operative went dark shortly after transmitting this image. Before the signal was lost, he claimed to have hidden the encryption keys at a ""Dead Drop"" right where he was standing.
+
+To recover the package, we need you to geolocate this exact spot. Be precise: the extraction team requires the location's specific three-word coordinate address (in English) to proceed.
+
+**Flag format**: flag{word.word.word}",,,,0,100,Osint,dynamic,visible,any,500,100,80,logarithmic,
+40,The Blue Door,"We have intercepted a photo from a burn phone belonging to a known smuggler. This location (**marked N:20**) is suspected to be a safehouse used to store illicit goods.
+
+The architecture suggests a historical district in Europe, but the metadata has been scrubbed.
+
+We need the full street name to authorize a raid.
+
+**Flag Format**: (Lowercase, no accents, replace spaces with underscores)<br>
+flag{street_name_in_local_language} ",,,,0,100,Osint,dynamic,visible,any,500,100,80,logarithmic,
